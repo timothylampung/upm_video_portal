@@ -33,9 +33,9 @@
 
 
 			<!--VIDEO 1-->
-			<div style="padding: 10px">
+			<div style="margin-left:20px; padding: 10px">
 				<div class="card" style=" width: 18rem;">
-					<video height="240" controls="controls">
+					<video height="250" controls="controls">
 						<source src="<?php echo base_url('asset/videos/video9.mp4') ?> " type="video/mp4"/>
 					</video>
 					<div class="card-body">
@@ -50,9 +50,9 @@
 
 
 			<!--VIDEO 2-->
-			<div style="padding: 10px">
+			<div style="margin-left:20px; padding: 10px">
 				<div class="card" style=" width: 18rem;">
-					<video height="240" controls="controls">
+					<video height="250" controls="controls">
 						<source src="<?php echo base_url('asset/videos/video9.mp4') ?> " type="video/mp4"/>
 					</video>
 					<div class="card-body">
@@ -64,7 +64,6 @@
 					</div>
 				</div>
 			</div>
-
 			<!--More Video-->
 
 
